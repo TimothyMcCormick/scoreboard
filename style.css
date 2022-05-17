@@ -3,8 +3,29 @@ body{
   background-position: center;
   object-fit: cover;
   max-width: 100%;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .home-score{
-  font-size: 60pt;
+  font-size: 72pt;
+}
+
+.main-card{
+  border: 3px solid black;
+  padding: 2em;
+  background-color: rgba(64, 64, 64, 0.84);
+}
+
+.score-card{
+  border: 3px solid black;
+  padding: 2em;
+  background-color: rgba(64, 64, 64, 0.85);
+}
+
+h1{
+  font-size: 48pt;
+}
+
+.button-ft-sz{
+  font-size: 24pt;
 }
